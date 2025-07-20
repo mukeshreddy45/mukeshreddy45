@@ -20,7 +20,7 @@
 ## 🧰 Tools & Skills I'm Using
 
 `Python` | `SQL` | `Power BI` | `Excel` | `Pandas` | `Matplotlib` | `Seaborn` |  
-`Scikit-learn` | `Jupyter Notebook` | `GitHub`  
+`Scikit-learn` | `Jupyter Notebook` | `GitHub` | 'Machine Learning'
 
 ---
 
