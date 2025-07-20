@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm Mukesh Reddy
 
-<!--
-**mukeshreddy45/mukeshreddy45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Transitioning from Business Development to Data Science  
+💻 Learning to turn raw data into real insights using Python, SQL, Power BI & Excel  
+🔍 Currently exploring NLP, ML, and how LLMs work under the hood
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What I'm Building
+
+- 🔮 **Netflix Sales Prediction**  
+  A regression model to forecast future sales based on past trends (scored 85% R²).  
+  Cleaned, visualized, and modeled everything from scratch.
+
+- 📊 **Superstore Dashboard (Power BI)**  
+  Created an interactive dashboard to analyze profit, segment performance, and region-wise trends.  
+  Used slicers, maps, and DAX measures for better storytelling.
+
+
+🧰 Tools & Skills I'm Using
+
+`Python` | `SQL` | `Power BI` | `Excel` | `Pandas` | `Matplotlib` | `Seaborn` |  
+`Scikit-learn` | `Jupyter Notebook` | `GitHub`  
+
+---
+
+🚀 Right Now, I'm Focused On
+
+- Learning PySpark from the ground up  
+- Getting hands-on with LLMs & NLP projects  
+- Writing cleaner Power Query M code  
+- Improving my portfolio one project at a time
+
+---
+
+🤝 Let's Connect
+
+I'm open to feedback, collaboration, and cool data ideas.  
+If you're into data, dashboards, or models — let's talk.
+
