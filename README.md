@@ -17,14 +17,14 @@
   Used slicers, maps, and DAX measures for better storytelling.
 
 
-🧰 Tools & Skills I'm Using
+## 🧰 Tools & Skills I'm Using
 
 `Python` | `SQL` | `Power BI` | `Excel` | `Pandas` | `Matplotlib` | `Seaborn` |  
 `Scikit-learn` | `Jupyter Notebook` | `GitHub`  
 
 ---
 
-🚀 Right Now, I'm Focused On
+## 🚀 Right Now, I'm Focused On
 
 - Learning PySpark from the ground up  
 - Getting hands-on with LLMs & NLP projects  
@@ -33,7 +33,7 @@
 
 ---
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm open to feedback, collaboration, and cool data ideas.  
 If you're into data, dashboards, or models — let's talk.
